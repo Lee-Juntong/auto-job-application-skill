@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Job Application"
+  short_description: "Find, tailor, approve, and track job applications"
+  default_prompt: "Use $auto-job-application to find matching roles, prepare tailored materials, and submit only the applications I approve."

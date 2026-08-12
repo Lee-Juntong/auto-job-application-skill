@@ -1,0 +1,21 @@
+# Candidate data and generated application state
+candidate_profile.md
+application_tracker.csv
+resume_usage.csv
+application_packets.json
+jobs.json
+credentials*.txt
+accounts*.txt
+*.local.*
+
+# Personal application documents
+*.pdf
+*.doc
+*.docx
+*.odt
+*.rtf
+
+# Runtime artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
